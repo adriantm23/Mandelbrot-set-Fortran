@@ -1,5 +1,7 @@
 # Mandelbrot Set in Fortran 95
 
+![Mandelbrot Fractal](Mandelbrot%20set%20fractal.png)
+
 This project generates the Mandelbrot set using **Fortran 95** for numerical computation and **Gnuplot** for visualization.
 
 ##  How to run
